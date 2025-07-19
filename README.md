@@ -13,7 +13,7 @@ A clean and simple clone of the Google Sign-In landing page, built using **HTML*
 
 ## 📸 Preview
 
-![Google Sign-In UI Screenshot](https://via.placeholder.com/600x400.png?text=Project+Preview)
+![Google Sign-In UI Screenshot](![Preview](SS.png))
 
 > *Replace this with a real screenshot if needed*
 
