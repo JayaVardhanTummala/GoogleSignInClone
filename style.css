@@ -1,0 +1,158 @@
+body {
+      font-family: 'Roboto', sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      flex-direction: column;
+      background: url(https://www.google.com/logos/doodles/2025/nba-playoffs-2025-am-6753651837110780.2-2xa.gif);
+      background-repeat: none;
+      background-size: contain;
+      background-position: center;
+    }
+
+    .signin-container {
+      border: 1px solid #dadce0;
+      border-radius: 14px;
+      padding: 40px;
+      width: 100%;
+      max-width: 360px;
+      text-align: center;
+      background-color: rgba(255, 255, 255, 0.951);
+    }
+
+    .login-button {
+      background-color: #006eff;
+      color: white;
+      font-weight: 500;
+      border: none;
+      border-radius: 4px;
+      padding: 8px 24px;
+      font-size: 14px;
+      cursor: pointer;
+    }
+
+    .userid {
+      color: rgb(0, 0, 0);
+      background: #ffffff;
+      margin: 10px;
+      width: 100%;
+      box-sizing: border-box;
+      border: 1px solid #dadce0;
+      ;
+      padding: 13px 15px;
+      border-radius: 4px;
+    }
+
+    .actions {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-top: 24px;
+    }
+
+    .createacc {
+      text-decoration: none;
+      color: #006eff;
+    }
+
+    .flex-display {
+      display: flex;
+      justify-content: right;
+      list-style-type: none;
+    }
+
+    .notyourcomp {
+      display: flex;
+      font-size: small;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .flex-display a {
+      margin: 10px;
+      margin-top: 15px;
+      text-decoration: none;
+      border: none;
+      background: none;
+      color: #5f6368;
+
+    }
+
+    footer {
+      display: flex;
+      justify-content: center;
+      box-sizing: border-box;
+    }
+
+    .footer1 {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+      border: 1px solid #ffffff;
+      border-radius: 4px;
+      padding-left: 25px;
+      padding-right: 25px;
+      margin: 5px;
+    }
+
+    .guestmode {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-bottom: 5px;
+      color: #006eff;
+      font-size: small;
+      text-decoration: none;
+
+    }
+
+    .signin {
+      color: #000000;
+      font-weight: 100;
+    }
+
+    .forgotmail {
+      font-size: medium;
+      color: #1a73e8;
+      display: inline-block;
+      text-decoration: none;
+
+    }
+
+    .language {
+      text-decoration: none;
+      border: none;
+      background: none;
+    }
+
+    header {
+      font-family: 'Roboto', sans-serif;
+      width: 100%;
+      max-width: 600px;
+      padding: 12px 24px;
+      box-sizing: border-box;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .nav {
+      text-decoration: none;
+      list-style-type: none;
+      display: flex;
+      justify-content: center;
+      gap: 60px;
+    }
+
+    .nav a {
+      color: #1a73e8;
+      text-decoration: none;
+      font-weight: 500;
+      font-size: 16px;
+      position: relative;
+      bottom: 5px;
+      left: -13px;
+    }
