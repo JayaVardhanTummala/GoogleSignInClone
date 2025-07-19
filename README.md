@@ -13,14 +13,10 @@ A clean and simple clone of the Google Sign-In landing page, built using **HTML*
 
 ## 📸 Preview
 
-<<<<<<< HEAD
-![Google Sign-In UI Screenshot](![Preview](SS.png))
+![Google Sign-In UI Screenshot](SS.png)
 =======
-![Google Sign-In UI Screenshot]("C:\Users\ASUS\OneDrive\Pictures\Screenshots 1\SS.png")
->>>>>>> 47040d158157aa457dc6ce42fc2134abac071e4e
 
 
----
 
 ## 🛠️ Features
 
