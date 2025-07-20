@@ -6,7 +6,7 @@ A clean and simple clone of the Google Sign-In landing page, built using **HTML*
 
 ## 🔗 Live Demo
 
-👉 [Click here to check it out](https://jayavardhantummala.github.io/GoogleSignUpClone/)  
+👉 [Click here to check it out]( https://jayavardhantummala.github.io/GoogleSignInClone/)  
 *(No backend. UI only. Just vibes.)*
 
 ---
